@@ -1,0 +1,221 @@
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\appsettings.json
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.exe
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.deps.json
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.runtimeconfig.json
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.runtimeconfig.dev.json
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\ref\AplikacjaPodst.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.Views.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.Views.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.AssemblyReference.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.AssemblyInfoInputs.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.AssemblyInfo.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.CoreCompileInputs.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorAssemblyInfo.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorAssemblyInfo.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\staticwebassets\AplikacjaPodst.StaticWebAssets.Manifest.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\staticwebassets\AplikacjaPodst.StaticWebAssets.xml
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\scopedcss\bundle\AplikacjaPodst.styles.css
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.TagHelpers.input.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.TagHelpers.output.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorCoreGenerate.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorTargetAssemblyInfo.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorTargetAssemblyInfo.cs
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.Views.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\ref\AplikacjaPodst.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.genruntimeconfig.cache
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.CopyComplete
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kinga\source\repos\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\ref\AplikacjaPodst.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\appsettings.json
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.exe
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.deps.json
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.runtimeconfig.json
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.runtimeconfig.dev.json
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\ref\AplikacjaPodst.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.Views.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.Views.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Humanizer.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.AssemblyReference.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.AssemblyInfoInputs.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.AssemblyInfo.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.CoreCompileInputs.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorAssemblyInfo.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorAssemblyInfo.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\staticwebassets\AplikacjaPodst.StaticWebAssets.Manifest.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\staticwebassets\AplikacjaPodst.StaticWebAssets.xml
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\scopedcss\bundle\AplikacjaPodst.styles.css
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.TagHelpers.input.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.TagHelpers.output.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorCoreGenerate.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorTargetAssemblyInfo.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorTargetAssemblyInfo.cs
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.Views.pdb
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.CopyComplete
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.genruntimeconfig.cache
+C:\Users\112\Downloads\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Polska.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\appsettings.Development.json
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\appsettings.json
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.StaticWebAssets.xml
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.exe
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.deps.json
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.runtimeconfig.json
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.runtimeconfig.dev.json
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\ref\AplikacjaPodst.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.Views.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\AplikacjaPodst.Views.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Humanizer.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.AssemblyReference.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.AssemblyInfoInputs.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.AssemblyInfo.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.CoreCompileInputs.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.MvcApplicationPartsAssemblyInfo.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorAssemblyInfo.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorAssemblyInfo.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\scopedcss\bundle\AplikacjaPodst.styles.css
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\staticwebassets\AplikacjaPodst.StaticWebAssets.Manifest.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.TagHelpers.input.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.TagHelpers.output.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorCoreGenerate.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Polska.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorTargetAssemblyInfo.cache
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.RazorTargetAssemblyInfo.cs
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.Views.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.csproj.CopyComplete
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\ref\AplikacjaPodst.dll
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.pdb
+E:\Pulpit\Projekty visual studio\AplikacjaPodst\AplikacjaPodst\obj\Debug\net5.0\AplikacjaPodst.genruntimeconfig.cache

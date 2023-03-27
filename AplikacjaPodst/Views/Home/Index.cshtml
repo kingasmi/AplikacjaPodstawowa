@@ -1,0 +1,48 @@
+﻿@model Warzywo
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+   <ol>
+       @foreach (var produkt in ViewBag.vegetables)
+       {
+           <li>@produkt.Name</li>
+       }
+   </ol>
+    <h2>Szczegóły</h2>
+
+    <button><a asp-controller="Home" asp-action="Edit">Dodaj produkt</a></button>
+                  
+
+    <table border="1">
+       <thead>
+           <tr>
+               <th>Nazwa warzywa</th>
+               <th>Cena</th>
+               <th>Ilość</th>
+               <th>Kraj</th>
+               <th>Edycja</th>
+               <th>Usuń</th>
+           </tr>
+       </thead>
+       <tbody>
+           @foreach (var produkt in ViewBag.vegetables)
+           {
+           <tr>
+               @if(@produkt.Country=="Polska"){
+                    <td class="krajowe">@produkt.Name</td>
+               }else{
+                    <td class="zagraniczne">@produkt.Name</td>
+               }
+               <td>@produkt.Price</td>
+               <td>@produkt.Quantity</td>
+               <td>@produkt.Country</td>
+               <td><a asp-controller="Home" asp-action="Edit" asp-route-id="@produkt.WarzywoId">Edytuj</a></td>
+               <td><a asp-controller="Home" asp-action="Delete" asp-route-id="@produkt.WarzywoId">&#128465</a></td>
+
+           </tr>
+           }
+       </tbody>
+    </table>
+</div>

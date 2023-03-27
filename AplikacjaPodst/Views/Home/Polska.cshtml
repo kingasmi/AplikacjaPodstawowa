@@ -1,0 +1,11 @@
+﻿@model Warzywo
+@{
+    ViewData["Title"] = "Warzywa krajowe";
+}
+<h1>Kraj pochodzenia: Polska</h1>
+<ul>
+    @foreach (var waszywapl in ViewBag.krajowe)
+    {
+        <li>@waszywapl.Name (cena:@waszywapl.Price, ilość:@waszywapl.Quantity )</li>
+    }
+ </ul>

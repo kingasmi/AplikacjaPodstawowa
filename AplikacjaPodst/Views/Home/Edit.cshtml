@@ -1,0 +1,24 @@
+﻿@model Warzywo
+@{
+    Layout = null;
+    ViewData["Title"] = "Edycja warzywa";
+}
+
+<form method="post" asp-action="Index">
+
+    <input type="hidden" asp-for="WarzywoId"/>
+
+    <label asp-for="Name">Nazwa: </label>
+    <input type="text" asp-for="Name" /><br />
+
+    <label asp-for="Price">Cena: </label>
+    <input type="text" asp-for="Price" /><br />
+
+    <label asp-for="Quantity">Ilość: </label>
+    <input type="number" asp-for="Quantity" /><br />
+
+    <label asp-for="Country">Kraj: </label>
+    <input type="text" asp-for="Country" /><br />
+
+    <button type="submit">Zapisz zmiany</button>
+</form>
